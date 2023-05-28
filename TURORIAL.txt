@@ -1,0 +1,5 @@
+Apa itu NPM https://www.niagahoster.co.id/blog/npm/
+
+cara install Node.JS https://www.niagahoster.co.id/blog/cara-install-node-js/
+
+Download Node.Js di Windows atau Mac https://nodejs.org/en (windows) https://nodejs.org/en/download (MAC) 
